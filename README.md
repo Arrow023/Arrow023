@@ -1,5 +1,5 @@
  <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
- <img src="https://github.com/Arrow023/Arrow023/LinkedIn Banner.png">
+ <img align="center" src="https://github.com/Arrow023/Arrow023/LinkedIn%20Banner.png">
 <p>
   <h1 align="center"><b>Hello there, I'm Piyush 👋</b></h1>
 </p>
