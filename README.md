@@ -1,6 +1,6 @@
  <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
  <img align="center" src="https://github.com/Arrow023/Arrow023/blob/main/LinkedIn%20banner.png">
- <img align="center" src="https://github.com/Arrow023/Arrow023/blob/main/arrow023-2020.stl">
+ 
 <p>
   <h1 align="center"><b>Hello there, I'm Piyush 👋</b></h1>
 </p>
@@ -25,6 +25,7 @@
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="center" src="https://github.com/Arrow023/Arrow023/blob/main/skyline.png">
 
 ### I am a Machine Learning Enthusiast & Full_stack() Developer 
 - 🔭 I’m currently working on my Portfolio Website
