@@ -25,7 +25,7 @@
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<img align="center" src="https://github.com/Arrow023/Arrow023/blob/main/skyline.png">
+
 
 ### I am a Machine Learning Enthusiast & Full_stack() Developer 
 - 🔭 I’m currently working on my Portfolio Website
@@ -37,6 +37,8 @@
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
+<br>
+<img align="center" src="https://github.com/Arrow023/Arrow023/blob/main/skyline.png">
 <br>
 
 ### Languages and Tools: 
