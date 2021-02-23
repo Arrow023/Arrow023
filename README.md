@@ -1,6 +1,6 @@
  <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
  <img align="center" src="https://github.com/Arrow023/Arrow023/blob/main/LinkedIn%20banner.png">
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+ <img align="center" src="https://github.com/Arrow023/Arrow023/blob/main/arrow023-2020.stl">
 <p>
   <h1 align="center"><b>Hello there, I'm Piyush 👋</b></h1>
 </p>
