@@ -9,9 +9,6 @@
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Arrow023" />
-</p>
 
 <p align="center">
 <br>
@@ -19,7 +16,7 @@
 <a href="https://www.instagram.com/lelouch_vi._britannia/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/piyush-chouhan-72b747155/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:piyushchouhan48@gmail.com?subject=Hello%20Piyush"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.piyush.lifelessons.team/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="https://piyushchouhan.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 
 <br>
@@ -31,7 +28,7 @@
 - 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning MERN & MEAN Stack Development.
 - 👯 I’m looking to collaborate with other Developers 
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
