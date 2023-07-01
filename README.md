@@ -35,7 +35,9 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
+<a href="https://skyline.github.com/arrow023/2022">
 <img align="center" src="https://github.com/Arrow023/Arrow023/blob/main/skyline_2022.png">
+</a>
 <br>
 
 ### Languages and Tools: 
